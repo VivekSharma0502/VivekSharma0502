@@ -3,6 +3,8 @@
 **Diploma student in Information Technology at N. G. Patel Polytechnic (GTU)**, focused on
 **blue-team / SOC work and detection engineering**, with a side interest in IoT.
 
+🌐 **Portfolio:** [viivek.xyz](https://viivek.xyz/)
+
 🎯 Looking for a **6-month internship** in cybersecurity (SOC, detection engineering, security engineering).
 
 ---
@@ -29,4 +31,4 @@
 
 ---
 
-📍 Bardoli, Gujarat, India
+🌐 [viivek.xyz](https://viivek.xyz/) · 💼 [LinkedIn](https://www.linkedin.com/in/viveksharma0502/) · 📍 Bardoli, Gujarat, India
