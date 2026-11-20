@@ -13,10 +13,10 @@
 ```yaml
 whoami:
   name:      Vivek Sharma
-  education: Diploma in Information Technology — N. G. Patel Polytechnic (GTU)
-  focus:     [SOC operations, detection engineering, application security]
-  building:  GapScan — security scanner for websites, Git repos and BaaS backends
-  seeking:   6-month internship in cybersecurity
+  education: Diploma in IT, N. G. Patel Polytechnic (GTU)
+  focus:     [SOC, detection engineering, appsec]
+  building:  GapScan, a security scanner
+  seeking:   6-month cybersecurity internship
   location:  Bardoli, Gujarat, India
 ```
 
