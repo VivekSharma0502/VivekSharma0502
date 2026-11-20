@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,55:0b2a1f,100:0f5132&section=header&text=Vivek%20Sharma&fontColor=E6EDF3&fontSize=54&fontAlignY=36&desc=Blue-Team%20Security%20%E2%80%A2%20SOC%20%26%20Detection%20Engineering&descSize=18&descAlignY=58&descColor=3FB950&animation=fadeIn" width="100%" alt="Vivek Sharma — Blue-Team Security, SOC & Detection Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,55:0b2a1f,100:0f5132&section=header&text=Vivek%20Sharma&fontColor=E6EDF3&fontSize=54&fontAlignY=36&desc=Blue-Team%20Security%20%E2%80%A2%20SOC%20and%20Detection%20Engineering&descSize=18&descAlignY=58&descColor=3FB950&animation=fadeIn" width="100%" alt="Vivek Sharma — Blue-Team Security, SOC & Detection Engineering" />
 
 <a href="https://viivek.xyz/"><img src="https://img.shields.io/badge/Portfolio-viivek.xyz-3FB950?style=flat-square&logo=googlechrome&logoColor=white&labelColor=161B22" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/viveksharma0502/"><img src="https://img.shields.io/badge/LinkedIn-viveksharma0502-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" /></a>&nbsp;
