@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://viivek.xyz/">viivek.xyz</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/viveksharma0502/">linkedin</a> &nbsp;·&nbsp;
-  <a href="https://viivek.xyz/Vivek_Sharma_Resume.pdf">resume</a>
+  <a href="https://viivek.xyz/Vivek_Sharma_Resume.pdf">resume</a> &nbsp;·&nbsp;
+  <a href="mailto:college0912@gmail.com">college0912@gmail.com</a>
 </p>
 
 I got into security by breaking my own projects. Now I build the tools and detections that catch those breaks before someone else finds them.
@@ -23,9 +24,15 @@ I got into security by breaking my own projects. Now I build the tools and detec
   <a href="#"><img src="assets/case-conlatus.svg" width="49%" alt="Case 004 — Conlatus: 1st runner-up, AI Web Gen" /></a>
 </p>
 
-<sub>click a case to open the repo</sub>
+<sub>click a case to open the repo &nbsp;·&nbsp; live demos: <a href="https://password-manager-beta-one.vercel.app/">vaultx</a> · <a href="https://bookmark-manager-two-xi.vercel.app/">linknest</a></sub>
 
 <br/><br/>
+
+### the log so far
+
+<a href="#"><img src="assets/timeline.svg" width="100%" alt="2024 enrolled in Diploma in IT at N. G. Patel Polytechnic; Jul 2026 Cisco NetAcad Cybersecurity Essentials; Sep 2026 1st runner-up AI Web Gen, Vivesmruti; Nov 2026 Home SOC lab on Wazuh and GapScan open-sourced; Jan 2027 looking for a 6-month SOC / AppSec internship" /></a>
+
+<br/>
 
 ### on my keyboard
 
@@ -50,4 +57,4 @@ I got into security by breaking my own projects. Now I build the tools and detec
 
 <br/>
 
-<a href="#"><img src="assets/enter.svg" width="100%" alt="Hiring? My inbox is open. viivek.xyz · linkedin.com/in/viveksharma0502" /></a>
+<a href="#"><img src="assets/enter.svg" width="100%" alt="Hiring? My inbox is open. college0912@gmail.com · linkedin.com/in/viveksharma0502" /></a>
