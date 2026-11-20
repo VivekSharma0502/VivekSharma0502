@@ -25,8 +25,8 @@ whoami:
 <p align="center">
   <a href="https://github.com/VivekSharma0502/gapscan"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VivekSharma0502&repo=gapscan&hide_border=true&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&description_lines_count=3" alt="GapScan" /></a>
   <a href="https://github.com/VivekSharma0502/home-soc-lab-wazuh"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VivekSharma0502&repo=home-soc-lab-wazuh&hide_border=true&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&description_lines_count=3" alt="Home SOC Lab" /></a>
-  <a href="https://github.com/VivekSharma0502/password-manager"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VivekSharma0502&repo=password-manager&hide_border=true&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&description_lines_count=3" alt="VaultX" /></a>
-  <a href="https://github.com/VivekSharma0502/bookmark-manager"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VivekSharma0502&repo=bookmark-manager&hide_border=true&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&description_lines_count=3" alt="LinkNest" /></a>
+  <a href="https://github.com/VivekSharma0502/password-manager"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VivekSharma0502&repo=password-manager&cache_seconds=14400&v=2&hide_border=true&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&description_lines_count=3" alt="VaultX" /></a>
+  <a href="https://github.com/VivekSharma0502/bookmark-manager"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VivekSharma0502&repo=bookmark-manager&cache_seconds=14400&v=2&hide_border=true&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&description_lines_count=3" alt="LinkNest" /></a>
 </p>
 
 | Project | Highlights |
