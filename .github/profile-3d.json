@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-vivek.svg",
+  "backgroundColor": "#1C1B19",
+  "foregroundColor": "#ECE6D6",
+  "strongColor": "#ECE6D6",
+  "weakColor": "#7A7466",
+  "radarColor": "#D4232B",
+  "growingAnimation": true,
+  "contribColors": ["#2B2925", "#5A2622", "#8A1C1F", "#B81C24", "#F0444C"]
+}
